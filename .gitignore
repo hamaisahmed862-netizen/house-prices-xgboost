@@ -1,0 +1,15 @@
+# Kaggle datasets
+data/train.csv
+data/test.csv
+data/sample_submission.csv
+
+# Kaggle submission
+submission.csv
+
+# Python
+__pycache__/
+*.pyc
+
+# Virtual environment
+venv/
+.venv/
